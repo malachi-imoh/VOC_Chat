@@ -13,7 +13,7 @@ import html
 import textwrap 
 
 import os
-load_dotenv()
+#load_dotenv()
 
 
 # Only try to load .env locally
@@ -1301,3 +1301,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
